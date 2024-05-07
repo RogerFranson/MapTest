@@ -1,8 +1,8 @@
 ---
-title: Webmap
-emoji: 🦀
-colorFrom: green
-colorTo: green
+title: Anofa Web Map
+emoji: 🅰
+colorFrom: blue
+colorTo: blue
 sdk: static
 pinned: false
 license: gpl-3.0
